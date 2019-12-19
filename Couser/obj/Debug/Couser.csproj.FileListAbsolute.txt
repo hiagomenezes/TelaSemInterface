@@ -1,0 +1,6 @@
+C:\Users\hiago\Desktop\hiago\Couser\Couser\bin\Debug\Couser.exe.config
+C:\Users\hiago\Desktop\hiago\Couser\Couser\bin\Debug\Couser.exe
+C:\Users\hiago\Desktop\hiago\Couser\Couser\bin\Debug\Couser.pdb
+C:\Users\hiago\Desktop\hiago\Couser\Couser\obj\Debug\Couser.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\hiago\Couser\Couser\obj\Debug\Couser.exe
+C:\Users\hiago\Desktop\hiago\Couser\Couser\obj\Debug\Couser.pdb
